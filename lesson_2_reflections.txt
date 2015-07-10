@@ -1,0 +1,2 @@
+WHen a repository is initialised with git init a .git directory is created containing the metadata for the repository. No files are added to the repository with a commit.
+The staging area is an intermediary area where files can be added and removed before finalizing the commit. It give the user the flexibility to sort files out before commiting.
