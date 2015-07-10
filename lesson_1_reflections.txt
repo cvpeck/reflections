@@ -1,0 +1,15 @@
+diff -u is a neater way of using diff than the plain diff I normally use
+
+
+Git is designed for programming projects containing a large number of changing files. Googledocs is designed for individual unrelated files. A programming commit may have hundreds of changed files in one commit.
+
+
+git log will show the history of all the changes
+git diff (id1) (id2) will show what changed between commits.
+
+
+git gives the ability to experiment with code, confident an older version can be returned to if the changes don't work or if they break something.
+
+I want to use git to take over the world. Obviously rolling back the changes that don't work.
+
+ git diff considers the first argument as the "original", and the second argument as the "new" version, so additions are lines present in the second argument but not the first.
