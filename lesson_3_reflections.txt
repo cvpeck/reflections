@@ -1,3 +1,5 @@
 When would I want to create a remote repository? Whenever I want to share my code, or make sure it is backed up somewhere safe.
 
 Why might I want to always pull changes manually? Because the remote code may have changed significantly from what I am developing and I would be required to deconflict each pull. I'd prefer to develop my branch then merge after that.
+
+Forks / Clones / Branches? - Forks are a github concept for cloning a repository on github. Clones are the local version. Branches are taking an existing codebase and creating a new branch to modify for potential later merging.
