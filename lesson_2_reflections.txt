@@ -10,3 +10,6 @@ git diff commit1 commit2 (to compare the last commits)
 Braches are useful for developing new features that you may not be sure whether are going to be incorporated into the final product, or for ttrying out experimental features.
 
 The diagrams help visualize the branch structure because brains think visually! Nice to see a diagram showing all the branches rather than having to try yo visualise it internally.
+
+
+Automerging is nice and easy but can lead to unexpected erros if git does not detect the conflict. Manual is more accureate but is boring!
